@@ -1,0 +1,13 @@
+20
+99.99
+True
+Alice
+Original Matrix:
+[20, 170, 65]
+[21, 168, 60]
+[22, 175, 70]
+
+Matrix after multiplying by 2:
+[40, 340, 130]
+[42, 336, 120]
+[44, 350, 140]
